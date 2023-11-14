@@ -32,7 +32,7 @@ This is a landing page for a Digital Marketing Agency by the name Horiseon. The 
 
 Please check out a preview of the page here:
 
-![alt text](assets/images/Screenshot-Horiseon.png)
+![Horiseon Web Page Screenshot](assets/images/Screenshot-Horiseon.png)
 
 ## License
 
@@ -44,4 +44,3 @@ For more info please refer to: https://snyk.io/learn/what-is-mit-license/#what-i
 
 ![HTML-CSS](https://img.shields.io/badge/HTML-CSS-blue
 )
-
