@@ -32,7 +32,7 @@ This is a landing page for a Digital Marketing Agency by the name Horiseon. The 
 
 Please check out a preview of the page here:
 
-![alt text](assets/images/Screenshot-Horiseon.png)
+![Horiseon Web Page Screenshot](assets/images/Screenshot-Horiseon.png)
 
 ## License
 
