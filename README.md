@@ -44,4 +44,3 @@ For more info please refer to: https://snyk.io/learn/what-is-mit-license/#what-i
 
 ![HTML-CSS](https://img.shields.io/badge/HTML-CSS-blue
 )
-
